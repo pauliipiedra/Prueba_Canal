@@ -1,2 +1,2 @@
-# Prueba_Canal
-prueba para el canal de youtube
+# Prueba
+prueba GitHub
